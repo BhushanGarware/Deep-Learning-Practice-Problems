@@ -17,6 +17,7 @@ Best place to learn CNNs is [CS231n: Convolutional Neural Networks for Visual Re
 
 3. [TensorFlow](https://www.tensorflow.org/) is an open source Deep Learning Library by Google.
 4. [Keras](https://keras.io/) is another  deep learning library. 
+5. You can access AWS instance from [Putty](https://www.youtube.com/watch?v=bi7ow5NGC-U) on windows 
 
 To try out your experimentations, I would recommend you to use CS231n's [public AMI](http://cs231n.github.io/). If you are interested to use [Jupyter Notebooks](http://jupyter.org/) on EC2 then this [Tutorial](http://efavdb.com/deep-learning-with-jupyter-on-aws/) would be definitely helpful!   
  
